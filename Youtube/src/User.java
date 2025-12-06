@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class User {
-    //akses
+    //invite
     private int idPengguna;
     protected String email;
     protected String namaPengguna;
