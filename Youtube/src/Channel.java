@@ -1,4 +1,3 @@
-// Kelas Kanal 1.8
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -6,8 +5,8 @@ import java.sql.SQLException;
 import java.time.LocalDate;
 import java.util.*;
 
-public abstract class Channel { ////aaaaaaaa
-    private int idKanal; //aaa
+public abstract class Channel {
+    private int idKanal;
     private int idPengguna;
     private Date tanggalPembuatanKanal;
     protected String namaKanal;
