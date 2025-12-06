@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class User {
+    //ini Tambahan Test
     private int idPengguna;
     protected String email;
     protected String namaPengguna;
