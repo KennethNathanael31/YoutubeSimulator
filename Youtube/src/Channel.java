@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.time.LocalDate;
 import java.util.*;
 
-public abstract class Channel {// aaaa
+public abstract class Channel {
     private int idKanal;
     private int idPengguna;
     private Date tanggalPembuatanKanal;
