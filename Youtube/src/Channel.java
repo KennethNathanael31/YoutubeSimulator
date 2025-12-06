@@ -1,12 +1,11 @@
-// Kelas Kanal 1.6
-
+// integration
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.time.LocalDate;
 import java.util.*;
 
-public abstract class Channel { ////aaaaa
+public abstract class Channel { ////aaabbb
     private int idKanal; //aaa
     private int idPengguna;
     private Date tanggalPembuatanKanal;
