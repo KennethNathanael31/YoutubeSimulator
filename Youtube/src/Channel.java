@@ -7,7 +7,7 @@ import java.time.LocalDate;
 import java.util.*;
 
 public abstract class Channel { ////aaaaaaaa
-    private int idKanal;
+    private int idKanal; ///id
     private int idPengguna;
     private Date tanggalPembuatanKanal;
     protected String namaKanal;
