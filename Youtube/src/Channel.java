@@ -1,4 +1,4 @@
-// Kelas Kanal 1.2
+// Kelas Kanal 1.3
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
