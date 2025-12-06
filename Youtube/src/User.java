@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class User {
-    //Transformasi
+    //aadada
     private int idPengguna;
     protected String email;
     protected String namaPengguna;
